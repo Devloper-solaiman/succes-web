@@ -1,0 +1,24 @@
+.home-image{
+    margin-top: 20px;
+    width: 400px;
+}
+.home-text{
+    margin-top: 100px;
+    padding-left: 300px;
+}
+.home-text-1{
+    font-weight: 900;
+    color: rgba(40, 40, 218, 0.87);
+    font-size: 80px;
+}
+.home-text-2{
+    font-weight: 900;
+    color: rgba(218, 26, 138, 0.87);
+    font-size: 80px;
+}
+.comment-btn{
+    text-decoration: none;
+    font-size: 22px;
+    color: whitesmoke;
+    font-weight: 700;
+}

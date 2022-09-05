@@ -1,0 +1,21 @@
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    width: 900px;
+    margin-left: 40px;
+    font-weight: 500;
+    color: rgba(46, 15, 185, 0.747);
+}
+.list-name-text{
+    font-size:20px;
+    font-weight: 700;
+    color: lightslategray;
+}
+.list-name{
+    background-color: #fac;
+    border: none;
+    border-radius: 25px;
+    padding: 3px 8px;    
+}

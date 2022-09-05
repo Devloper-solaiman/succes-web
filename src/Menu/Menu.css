@@ -1,0 +1,30 @@
+.menu-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu-text{
+    display: flex;
+}
+.m-t-l{ 
+    padding:10px 15px ;
+    font-weight: 600;
+    text-decoration: none;
+    color: rgba(66, 66, 66, 0.959);
+    box-shadow:rgb(207, 154, 170) 0px 1px 1px 0px;
+}
+.m-t-l:hover{
+   color: rgba(240, 11, 11, 0.575);
+   box-shadow: none;
+   transition: 2s;
+   background-color: #fff;
+}
+.login-btn{
+    background-color: aqua;
+    border: none;
+    border-radius: 6px;
+    padding: 10px  0px;
+    margin-left: 30px;
+   
+    box-shadow:rgb(207, 154, 170) 0px 3px 5px 2px;
+}

@@ -1,0 +1,8 @@
+.blogs-text{
+    text-align: start;
+    margin-left: 20px;
+    background-color: #ffc;
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    
+}

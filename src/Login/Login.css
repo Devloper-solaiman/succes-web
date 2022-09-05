@@ -1,0 +1,13 @@
+.login-field{
+    font-family: sans-serif;
+    text-align: center;
+    border: 1px solid navajowhite;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 350px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    background-color: aquamarine;
+    color: rgb(25, 100, 54);
+  }
+  
